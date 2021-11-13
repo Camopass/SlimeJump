@@ -1,0 +1,11 @@
+[package]
+name = "SlimeJump"
+version = "0.1.0"
+edition = "2021"
+authors = ["Camopass", "ilovebean"]
+description = "Game. SFML. Slime. Jump."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sfml = "0.16.0"
